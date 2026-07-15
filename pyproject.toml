@@ -1,0 +1,15 @@
+[project]
+name = "1-news-summarizer-sentiment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "nltk>=3.8.1",
+    "openai>=1.20.0",
+    "plotly>=5.18.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "streamlit>=1.35.0",
+]
